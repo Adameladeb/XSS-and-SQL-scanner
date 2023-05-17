@@ -22,4 +22,6 @@ Before running the script, ensure you have the following installed:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/Adameladeb/XSS-and-SQL-scanner.git
+   cd XSS-and-SQL-scanner
+   python xss.py
