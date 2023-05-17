@@ -14,8 +14,8 @@ A Python script for scanning web pages for common vulnerabilities like XSS (Cros
 
 Before running the script, ensure you have the following installed:
 
-- Python (version X.X.X)
-- Chrome WebDriver (version X.X.X) for Selenium
+- Python (version: 3.11)
+- Chrome WebDriver (version: lastest) for Selenium
 
 ## :wrench: Setup and Usage
 
